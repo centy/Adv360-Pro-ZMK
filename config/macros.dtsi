@@ -1,6 +1,6 @@
-macro_kinesis: macro_kinesis {
+macro_switch_left: macro_switch_left {
     compatible = "zmk,behavior-macro";
-    label = "macro_kinesis";
+    label = "macro_switch_left";
     #binding-cells = <0>;
     wait-ms = <40>;
     tap-ms = <40>;
