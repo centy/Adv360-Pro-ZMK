@@ -1,4 +1,7 @@
-  ZMK_MACRO(macro_switch_left,
+macro_kinesis: macro_kinesis {
+    compatible = "zmk,behavior-macro";
+    label = "macro_kinesis";
+    #binding-cells = <0>;
     wait-ms = <40>;
     tap-ms = <40>;
     bindings
@@ -11,4 +14,4 @@
             , <&macro_tap &kp LEFT>
             , <&macro_release &kp LEFT_WIN>
             , <&macro_release &kp LCTRL>
-  ;)
+  ;);
