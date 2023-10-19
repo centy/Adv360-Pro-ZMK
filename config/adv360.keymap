@@ -63,7 +63,7 @@
  &trans  &trans  &trans              &trans  &trans  &trans             &none                                                   &none  &trans  &trans  &trans   &trans   &trans   &trans
  &trans  &trans  &trans              &trans  &trans  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans  &trans  &trans   &trans   &trans   &trans
  &trans  &trans  &trans              &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans   &trans   &trans   &trans
- &trans  &trans  &trans  &macro_switch_left  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans   &trans   &trans   &trans
+ &trans  &trans  &trans  &macro_switch_left  &macro_switch_right        &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans   &trans   &trans   &trans
             >;
         };
 
